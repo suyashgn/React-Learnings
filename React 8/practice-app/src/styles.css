@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    background: #eee;
+    margin-bottom: 20px;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+
+  
