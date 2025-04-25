@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* App css */
+.container {
+  text-align: center;
+  padding: 50px;
+  background-color: #daf7d9;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #353d96;
+}
+
+.description {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+/* < counter title ="abc" /> */
+
+
+
